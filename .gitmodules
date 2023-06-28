@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "hagis"]
 	path = hagis
 	url = https://github.com/openplantpathology/hagis
-	shallow = true
-	registered = true
